@@ -9,8 +9,8 @@
 
 ## Lien vers les dépôts :
 
-* Projet de dépôt de fichiers (principal) : <a href="https://github.com/IKLSI/docker-sae-203-equipe12-depot">
-* Projet de chat en ligne : <a href="https://github.com/IKLSI/docker-sae-203-equipe12-depot">
-* Projet de virtualisation de VS CODE : <a href="https://github.com/IKLSI/docker-sae-203-equipe12-vscode">
+* Projet de dépôt de fichiers (principal) : <a href="https://github.com/IKLSI/docker-sae-203-equipe12-depot">Dépôt</a>
+* Projet de chat en ligne : <a href="https://github.com/IKLSI/docker-sae-203-equipe12-depot">Chat</a>
+* Projet de virtualisation de VS CODE : <a href="https://github.com/IKLSI/docker-sae-203-equipe12-vscode">VSCODE</a>
 
 ## LEVESQUE Kyliann, LE BRETON Kyllian, MENARD Esteban
